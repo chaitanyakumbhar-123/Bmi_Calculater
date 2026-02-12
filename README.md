@@ -9,12 +9,15 @@ The workflow:
 - Implements a StateGraph
 - Calculates BMI using:
 
-BMI = weight / (height^2)
+   BMI = weight / (height^2)
 
 - Returns updated state with computed BMI
+- Also it states is you are Underweight, Overweight or Fit based on your calculated BMI 
 
 - ## Workflow
-  <img width="106" height="234" alt="bmi_cal_workflow" src="https://github.com/user-attachments/assets/146e0943-ce58-4a7b-bd30-c6f4991cc802" />
+
+  <img width="138" height="333" alt="image" src="https://github.com/user-attachments/assets/64fa2bdf-6251-4b30-8f82-d22b53e1fe86" />
+
 
 ## 🛠 Technologies Used
 
